@@ -1,3 +1,3 @@
 # Run-Boy-Run-
- A very basic arcade runner game developed in python with functional programming.
+ A very basic arcade runner game developed in pygame with functional programming.
  
